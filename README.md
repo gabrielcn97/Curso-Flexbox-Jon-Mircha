@@ -9,11 +9,11 @@ espacio entre los ítems de una interfaz y mejorar las capacidades de alineació
 Cuando describimos a flexbox como unidimensional destacamos el hecho que flexbox maneja el layout en una sola dimensión a la vez — ya sea como fila o como   
 columna. Esto contrasta con el modelo bidimensional del Grid Layout de CSS, el cual controla columnas y filas a la vez.
 
-#Aprender más sobre Flexbox
+#Aprender más sobre Flexbox  
 📚 Si deseas conocer más acerca de este elemento, te inivito a visitar los siguientes enlaces:  
 [Guía Completa de Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)  
 [Elementos básicos de Flexbox](https://developer.mozilla.org/es/docs/Learn/CSS/CSS_layout/Flexbox)
 
-:point_right: Si por el contrario deseas practicar lo aprendido, te invito a visitar los siguientes enlaces:
+:point_right: Si por el contrario deseas practicar lo aprendido, te invito a visitar los siguientes enlaces:  
 🐸[Flexbox Froggy](https://flexboxfroggy.com/#es)  
 💣[Flexbox Defense](http://www.flexboxdefense.com/)
